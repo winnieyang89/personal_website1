@@ -37,7 +37,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Sociology — Graduate Option in Gender and Women's Studies, 2024 (expected)
+    - course: PhD in Sociology — Graduate Option in Gender and Women's Studies
       institution: McGill University
       year: 2024 (expected)
     - course: MSc in Sociology

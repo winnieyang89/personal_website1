@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Chih-lan Winnie Yang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chih-lan Winnie Yang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Chih-lan Winnie
+last_name: Yang
 
 # Status emoji
 status:

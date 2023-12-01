@@ -37,7 +37,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Sociology, Graduate Option in Women's and Gender Studies 
+    - course: PhD in Sociology, Graduate Option in Gender and Women's Studies 
       institution: McGill University
       year: 2024 (expected)
     - course: MSs in Sociology
@@ -94,22 +94,22 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "mailto:chih-lan.yang@mail.mcgill.ca"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/CLWinnieYang
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=r3yeTh4AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: 
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://ca.linkedin.com/in/chih-lan-winnie-yang-961120212
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-I am a PhD candidate in Sociology at McGill University, with a Graduate Option in Gender and Women’s Studies. My research interests sit at the intersection between family demography and social stratification and is organized around three areas of inquiry: marriage and family dynamics; cultural and meaning-making processes; and labour market stratification. In each of these areas, I pay particular attention to how sex, gender and sexuality intersect with other axes of inequalities. I conduct both quantitative and qualitative research based on various types of data, including Census, administrative tax data, surveys, and interview data. 
+I am a PhD candidate in Sociology at McGill University, with a Graduate Option in Gender and Women's Studies. My research interests sit at the intersection between family demography and social stratification and is organized around three areas of inquiry: marriage and family dynamics; cultural and meaning-making processes; and labour market stratification. In each of these areas, I pay particular attention to how sex, gender and sexuality intersect with other axes of inequalities. I conduct both quantitative and qualitative research based on various types of data, including census, administrative tax data, surveys, and interview data. 
 {style="text-align: justify;"}

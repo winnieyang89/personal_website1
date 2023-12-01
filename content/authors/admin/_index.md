@@ -40,11 +40,11 @@ education:
     - course: PhD in Sociology, Graduate Option in Gender and Women's Studies 
       institution: McGill University
       year: 2024 (expected)
-    - course: MSs in Sociology
+    - course: MSc in Sociology
       institution: University of Oxford
       year: 2015
     - course: BA in Interdisciplinary Program of Humanities and Social Sciences (Major in Sociology; Minor in Gender Studies)
-      institution: National Tsing Hua University, Taiwan
+      institution: National Tsing Hua University
       year: 2014
 
 # Skills

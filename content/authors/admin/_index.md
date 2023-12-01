@@ -37,13 +37,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Sociology, Graduate Option in Gender and Women's Studies 
+    - course: PhD in Sociology — Graduate Option in Gender and Women's Studies, 2024 (expected)
       institution: McGill University
       year: 2024 (expected)
     - course: MSc in Sociology
       institution: University of Oxford
       year: 2015
-    - course: BA in Interdisciplinary Program of Humanities and Social Sciences (Major in Sociology; Minor in Gender Studies)
+    - course: BA in Interdisciplinary Program of Humanities and Social Sciences
       institution: National Tsing Hua University
       year: 2014
 
@@ -104,8 +104,8 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=r3yeTh4AAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
+  - icon: 
+    icon_pack: 
     link: 
   - icon: linkedin
     icon_pack: fab
@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-I am a PhD candidate in Sociology at McGill University, with a Graduate Option in Gender and Women's Studies. My research interests sit at the intersection between family demography and social stratification and is organized around three areas of inquiry: marriage and family dynamics; cultural and meaning-making processes; and labour market stratification. In each of these areas, I pay particular attention to how sex, gender and sexuality intersect with other axes of inequalities. I conduct both quantitative and qualitative research based on various types of data, including census, administrative tax data, surveys, and interview data. 
+I am a PhD candidate in Sociology at McGill University, with a Graduate Option in Gender and Women's Studies. My research is organized around three areas of inquiry: marriage and family dynamics; cultural and meaning-making processes; and labour market stratification. In each of these areas, I pay particular attention to how sex, gender and sexuality intersect with other axes of inequalities. I conduct both quantitative and qualitative research based on various types of data, including censuses, administrative tax records, surveys, and interviews. 
 {style="text-align: justify;"}

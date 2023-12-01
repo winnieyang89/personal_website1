@@ -3,11 +3,11 @@
 title: Chih-lan Winnie Yang
 
 # Name pronunciation (optional)
-name_pronunciation: Chih-lan Winnie Yang
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Chih-lan Winnie
-last_name: Yang
+first_name: Chih-lan 
+last_name: Winnie Yang
 
 # Status emoji
 status:
@@ -17,21 +17,22 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD candidate in Sociology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: McGill University
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Marriage and Family
+  - Sex, Gender and Sexuality
+  - Social Stratification 
+  - Mixed-Methods
 
 # Education to show in About widget
 education:

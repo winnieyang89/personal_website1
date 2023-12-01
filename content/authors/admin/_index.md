@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate in Sociology
+role: PhD Candidate in Sociology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -37,15 +37,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Sociology, Graduate Option in Women's and Gender Studies 
+      institution: McGill University
+      year: 2024 (expected)
+    - course: MSs in Sociology
+      institution: University of Oxford
+      year: 2015
+    - course: BA in Interdisciplinary Program of Humanities and Social Sciences (Major in Sociology; Minor in Gender Studies)
+      institution: National Tsing Hua University, Taiwan
+      year: 2014
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD candidate in Sociology at McGill University, with a Graduate Option in Gender and Women’s Studies. My research interests sit at the intersection between family demography and social stratification and is organized around three areas of inquiry: marriage and family dynamics; cultural and meaning-making processes; and labour market stratification. In each of these areas, I pay particular attention to how sex, gender and sexuality intersect with other axes of inequalities. I conduct both quantitative and qualitative research based on various types of data, including Census, administrative tax data, surveys, and interview data. 
 {style="text-align: justify;"}

@@ -206,11 +206,11 @@ sections:
       title: Work in Progress
       text: |-
         {{% callout note %}}
-        Search manuscripts in progress [by clicking here](./publication/).
+        Search manuscripts in progress [by clicking here](./progress/).
         {{% /callout %}}
       filters:
         folders:
-          - publication
+          - progress
         exclude_featured: true
     design:
       columns: '2'

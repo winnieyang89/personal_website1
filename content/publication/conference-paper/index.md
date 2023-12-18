@@ -24,23 +24,13 @@ publishDate: '2023-08-09T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-# publication_types: ['paper-conference']
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Demographic Research*
 # publication_short: In *ICW*
 
-abstract: Background: Across the globe, employment for pay outside the home plays a key role in the lives of women, and increasing the proportion of women involved in high-quality jobs is a critical component of reaching several sustainable development goals. While existing research from high-income societies demonstrates that women’s employment is not constant over the life course, relatively less is known about women’s employment trajectories in low-income countries.
-
-Objective: We examine employment trajectories among women in rural Nepal, accounting for job type, employment intensity, and earnings.
-
-Methods: Using eight years of quarterly employment data from the 2016 Female Labor Force Participation and Child Outcomes Study component of the Chitwan Valley Family Study, we identify typologies of employment trajectories by conducting sequence and cluster analyses.
-
-Results: First, half of the women in our sample were never employed in the study period. Second, among women who were ever employed, there were considerable transitions into and out of the workforce. Third, women’s employment trajectories are largely determined by job type (wage labor, salaried jobs, and self-employment), with little movement across job types. Additionally, self-employed women and those with salaried jobs had higher earnings and higher employment intensity than women with wage labor jobs.
-
-Conclusions: We see intense stratification into job types, including no employment at all, and substantial transitions into and out of the workforce among workers. Women experience many employment disruptions over the life course, with little sign of upward employment mobility.
-
-Contribution: This study provides new empirical portraits of women’s employment in low-income settings by investigating the multiple dimensions of women’s employment from a life course perspective.
+abstract:
 
 
 # Summary. An optional shortened abstract.

@@ -204,10 +204,10 @@ sections:
     id: progress
     content:
       title: Work in Progress
-      text: |-
-        {{% callout note %}}
-        Search manuscripts in progress [by clicking here](./progress/).
-        {{% /callout %}}
+      # text: |-
+      #   {{% callout note %}}
+      #   Search manuscripts in progress [by clicking here](./progress/).
+      #   {{% /callout %}}
       filters:
         folders:
           - progress

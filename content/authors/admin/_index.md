@@ -47,9 +47,8 @@ bio:
 #       institution: National Tsing Hua University
 #       year: 2014
 
-# Skills
+
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-# skills:
   # #- name: Technical
   #   items:
   #     - name: Python

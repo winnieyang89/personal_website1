@@ -106,15 +106,15 @@ social:
   - icon: 
     icon_pack: 
     link: 
-  - icon: linkedin
-    icon_pack: fab
-    link: https://ca.linkedin.com/in/chih-lan-winnie-yang-961120212
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://ca.linkedin.com/in/chih-lan-winnie-yang-961120212
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/cv.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/cv.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

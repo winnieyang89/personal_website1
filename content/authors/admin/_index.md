@@ -34,18 +34,18 @@ bio:
   #- Social Stratification 
   #- Mixed-Methods
 
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Sociology — Graduate Option in Gender and Women's Studies
-      institution: McGill University
-      year: 2024 (expected)
-    - course: MSc in Sociology
-      institution: University of Oxford
-      year: 2015
-    - course: BA in Interdisciplinary Program of Humanities and Social Sciences
-      institution: National Tsing Hua University
-      year: 2014
+# # Education to show in About widget
+# education:
+#   courses:
+#     - course: PhD in Sociology — Graduate Option in Gender and Women's Studies
+#       institution: McGill University
+#       year: 2024 (expected)
+#     - course: MSc in Sociology
+#       institution: University of Oxford
+#       year: 2015
+#     - course: BA in Interdisciplinary Program of Humanities and Social Sciences
+#       institution: National Tsing Hua University
+#       year: 2014
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

@@ -206,7 +206,7 @@ sections:
       title: Work in Progress
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        Search manuscripts in progress [by clicking here](./publication/).
         {{% /callout %}}
       filters:
         folders:

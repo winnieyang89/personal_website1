@@ -201,6 +201,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
+    id: progress
     content:
       title: Work in Progress
       text: |-

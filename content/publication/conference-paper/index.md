@@ -14,7 +14,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-08-09T00:00:00Z'
 doi: '10.4054/DemRes.2023.49.8'
 
 # Schedule page publish date (NOT publication's date).

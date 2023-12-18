@@ -1,7 +1,9 @@
 ---
-title: "How Times Have Changed: Cultural Models of Marriage Among Gender and Sexual Minorities"
+title: "Parental Migration Experience and Children’s Marriage Timing in Nepal"
 authors:
+- Karl U Ng
 - admin
+- Sarah Brauner-Otto
 date: ""
 doi: ""
 

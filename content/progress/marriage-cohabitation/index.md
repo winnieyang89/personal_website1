@@ -1,5 +1,5 @@
 ---
-title: "Marriage-Cohabitation Gaps in Intra-Household Specialization Among Same-Sex and Different-Sex Couples Across Institutional Contexts: Evidence from Canada"
+title: "Marriage, Cohabitation and Institutional Context: Household Specialization Among Same-Sex and Different-Sex Couples in Canada"
 authors:
 - admin
 date: ""

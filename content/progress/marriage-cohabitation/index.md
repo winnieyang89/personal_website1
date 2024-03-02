@@ -1,5 +1,5 @@
 ---
-title: "Marriage, Cohabitation and Institutional Context: Household Specialization Among Same-Sex and Different-Sex Couples in Canada"
+title: "Marriage, Cohabitation and Institutional Context: Household Specialization Among Same-Sex and Different-Sex Couples"
 authors:
 - admin
 date: ""

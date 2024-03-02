@@ -1,5 +1,5 @@
 ---
-title: "How Times Have Changed: Cultural Models of Marriage Among Gender and Sexual Minorities"
+title: "Marriage, Assimilation, and Cultural Change Among Gender and Sexual Minorities in Post Marriage Equality Canada"
 authors:
 - admin
 date: ""

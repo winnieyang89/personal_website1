@@ -1,5 +1,5 @@
 ---
-title: "Marriage, Cohabitation and Institutional Context: Household Specialization Among Same-Sex and Different-Sex Couples"
+title: "Marriage, Cohabitation and Institutional Context: Household Specialization Among Same-Sex and Different-Sex Couples (forthcoming in Journal of Marriage and Family)"
 authors:
 - admin
 date: ""

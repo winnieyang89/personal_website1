@@ -124,5 +124,5 @@ I am a PhD candidate in Sociology at McGill University, with a Graduate Option i
 
 My research is organized around three areas of inquiry: marriage and family dynamics; cultural and meaning-making processes; and social mobility within and across generational lines. In each of these areas, I pay particular attention to how sex, gender and sexuality intersect with other axes of social inequality. To this end, I conduct both quantitative and qualitative research based on various types of data, including censuses, administrative tax records, surveys, and interviews. 
 
-Thus far, my work has appeared—or is forthcoming—in *Journal of Marriage and Family*, *Demographic Research* and the *Journal of Population Research* and has been generously funded by the Department of Women and Gender Equality (Canada), the Canadian Research Data Centre Network, the Government of Taiwan, among other funding agencies. 
+Thus far, my work has appeared—or is forthcoming—in the *Journal of Marriage and Family*, *Demographic Research* and the *Journal of Population Research* and has been generously funded by the Department of Women and Gender Equality (Canada), the Canadian Research Data Centre Network, the Government of Taiwan, among other funding agencies. 
 {style="text-align: justify;"}

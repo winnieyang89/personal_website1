@@ -1,8 +1,8 @@
 ---
 title: "Social Mobility, Assortative Mating and Gender Disparities Among Sexual Minorities"
 authors:
-- admin
 - Xavier St-Denis
+- admin
 - Gaëlle Simard-Duplain
 - Nicole Denier
 date: ""

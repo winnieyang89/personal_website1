@@ -3,8 +3,9 @@ title: "Social Mobility, Assortative Mating and Gender Disparities Among Sexual 
 authors:
 - Xavier St-Denis
 - admin
-- Gaëlle Simard-Duplain
 - Nicole Denier
+- Gaëlle Simard-Duplain
+
 date: ""
 doi: ""
 

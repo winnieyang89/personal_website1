@@ -6,7 +6,7 @@ authors:
 - Xavier St-Denis
 - Sean Waite
 date: "2024-06-19"
-doi: "10.1111/jomf.13002"
+doi: "10.1016/j.rssm.2024.100950"
 
 
 # Schedule page publish date (NOT publication's date).

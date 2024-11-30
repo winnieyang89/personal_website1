@@ -120,7 +120,7 @@ social:
 highlight_name: true
 ---
 
-I am a PhD candidate in Sociology at McGill University, with a Graduate Option in Gender and Women's Studies. Before starting my journey as a PhD student in Montreal, I received an MSc in Sociology from the University of Oxford, and a BA in the Interdisciplinary Program of Humanities and Social Sciences from National Tsing Hua University. 
+I am a PhD candidate in Sociology at McGill University (expected 2024), with a Graduate Option in Gender and Women's Studies. Before starting my journey as a PhD student in Montreal, I received an MSc in Sociology from the University of Oxford, and a BA in the Interdisciplinary Program of Humanities and Social Sciences from National Tsing Hua University. 
 
 My research is organized around two areas of inquiry: culture and meaning-making related to marriage and family; and social mobility within and across generational lines. In each of these areas, I pay particular attention to how sex, gender and sexuality intersect with other axes of social inequality. To this end, I conduct both quantitative and qualitative research based on various types of data, including censuses, administrative tax records, surveys, and in-depth interviews. 
 

@@ -93,7 +93,7 @@ bio:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:chih-lan.yang@mail.mcgill.ca"
+    link: "mailto:winnie.yang@ualberta.ca"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/CLWinnieYang

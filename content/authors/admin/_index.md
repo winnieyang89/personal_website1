@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Sociology
+role: *Grant Notley Memorial Postdoctoral Fellow*
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: McGill University
+  - name: University of Alberta
     url: 
 
 # Short bio (displayed in user profile at end of posts)

@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Grant Notley Memorial Postdoctoral Fellow in Sociology
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:

@@ -10,7 +10,7 @@ date: "2025-01-09"
 doi: "10.4054/DemRes.2025.52.2"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-05-14"
+publishDate: "2025-01-09"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -27,7 +27,7 @@ abstract:
   # Summary. An optional shortened abstract.
   # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
   
-  tags: []
+  
 # Display this page in the Featured widget?
 featured: true
 

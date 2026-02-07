@@ -32,6 +32,7 @@ bio:
   #- Marriage and Family
   #- Sex, Gender and Sexuality
   #- Social Stratification 
+  #- Life Course
   #- Mixed-Methods
 
 # # Education to show in About widget

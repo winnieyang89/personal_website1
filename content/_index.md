@@ -189,32 +189,6 @@ sections:
    #     {{< gallery album="demo" >}}
    # design:
    #   columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    id: progress
-    content:
-      title: Work in Progress
-      # text: |-
-      #   {{% callout note %}}
-      #   Search manuscripts in progress [by clicking here](./progress/).
-      #   {{% /callout %}}
-      filters:
-        folders:
-          - progress
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
 #  - block: collection
  #   id: talks
  #   content:

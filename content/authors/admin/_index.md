@@ -127,5 +127,5 @@ My research is organized around three areas of inquiry: culture and meaning-maki
 
 Thus far, my work has appeared in the *Journal of Marriage and Family*, *Research in Social Stratification and Mobility*, *Demographic Research* and the *Journal of Population Research* and has been generously funded by the Vanier Institute of the Family, the Department of Women and Gender Equality (Canada), the Canadian Research Data Centre Network, Taiwanese Overseas Pioneers Grants for Humanities and Social Sciences, among other funding agencies. 
 
-I spend a lot of time in the RDC, usually with a podcast in my ears. Outside of work, I enjoy watching movies, cafe hunting, and eating pasta.
+I spend a lot of time in the [RDC](https://crdcn.ca/), usually with a podcast in my ears. Outside of work, I enjoy watching movies, cafe hunting, and eating pasta.
 {style="text-align: left;"}

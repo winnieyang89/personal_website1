@@ -98,6 +98,9 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=r3yeTh4AAAAJ&hl=en
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/chih-lan-winnie-yang-961120212/
   - icon: 
     icon_pack: 
     link: 

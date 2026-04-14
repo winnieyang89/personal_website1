@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chih-lan Winnie Yang
+title: Chih-Lan Winnie Yang
 
 # Name pronunciation (optional)
 name_pronunciation: 

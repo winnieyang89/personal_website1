@@ -120,9 +120,13 @@ highlight_name: true
 
 I am a *Grant Notley Memorial Postdoctoral Fellow* in the Department of Sociology at the University of Alberta. I hold a PhD in Sociology from McGill University, with a Graduate Option in Gender and Women's Studies. Before starting my journey in Montreal, I received an MSc in Sociology from the University of Oxford, and a BA in the Interdisciplinary Program of Humanities and Social Sciences from National Tsing Hua University (Taiwan). 
 
-My research is organized around three areas of inquiry: culture and meaning-making related to marriage and family; social mobility within and across generational lines; and work-family trajectories over the life course. In each of these areas, I pay particular attention to how sex, gender and sexuality intersect with other axes of social inequality. I draw on both quantitative and qualitative data in my work, including censuses, administrative tax records, surveys, and in-depth interviews. 
+My research is organized around three areas of inquiry: work-family trajectories over the life course;  social mobility within and across generational lines; and culture and meaning-making related to marriage and family. In each of these areas, I pay particular attention to how sex, gender and sexuality intersect with other axes of social inequality. I draw on both quantitative and qualitative data in my work, including censuses, administrative tax records, surveys, and in-depth interviews. 
 
 Thus far, my work has appeared in the *Journal of Marriage and Family*, *Research in Social Stratification and Mobility*, *Demographic Research* and the *Journal of Population Research* and has been generously funded by [the Vanier Institute of the Family](https://vanierinstitute.ca/), [Department of Women and Gender Equality (Canada)](https://www.canada.ca/en/women-gender-equality.html), [the Canadian Research Data Centre Network](https://crdcn.ca/), [Taiwanese Overseas Pioneers Grants for Humanities and Social Sciences](https://eats-taiwan.eu/news/fund-grant/2025-taiwanese-overseas-pioneers-grants/), among other funding agencies. 
 
 I spend a lot of time in the [RDC](https://crdcn.ca/), usually with a podcast in my ears. Outside of work, I enjoy watching movies, cafe hunting, and eating pasta.
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 {style="text-align: left;"}

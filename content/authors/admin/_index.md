@@ -125,8 +125,4 @@ My research is organized around three areas of inquiry: work-family trajectories
 Thus far, my work has appeared in the *Journal of Marriage and Family*, *Research in Social Stratification and Mobility*, *Demographic Research* and the *Journal of Population Research* and has been generously funded by [the Vanier Institute of the Family](https://vanierinstitute.ca/), [Department of Women and Gender Equality (Canada)](https://www.canada.ca/en/women-gender-equality.html), [the Canadian Research Data Centre Network](https://crdcn.ca/), [Taiwanese Overseas Pioneers Grants for Humanities and Social Sciences](https://eats-taiwan.eu/news/fund-grant/2025-taiwanese-overseas-pioneers-grants/), among other funding agencies. 
 
 I spend a lot of time in the [RDC](https://crdcn.ca/), usually with a podcast in my ears. Outside of work, I enjoy watching movies, cafe hunting, and eating pasta.
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
 {style="text-align: left;"}
